@@ -5,12 +5,12 @@ It contains tasks that cover Git basics, core Python concepts, problem-solving, 
 
 # TASK FOLDER (LINKS)
 
-- [Task 1.2 – Git Basics](task-1.2-git-basics/)
-- [Task 1.3 – Code Style](task-1.3-code-style/)
-- [Task 2.1 – DSA Challenges](task-2.1-dsa/)
-- [Task 2.2 – OOP Concepts](task-2.2-oop/)
-- [Task 2.3 – Error Handling & Debugging](task-2.3-error-debug/)
-- [Task 3.1 – API Interaction](task-3.1-api-interaction/)
+- [Task 1.2 – Git Basics](hello.py)
+- [Task 1.3 – Code Style](bad_style.py)
+- [Task 2.1 – DSA Challenges](dsa_challenges.py)
+- [Task 2.2 – OOP Concepts](book_store.py)
+- [Task 2.3 – Error Handling & Debugging](debug_errors.py)
+- [Task 3.1 – API Interaction](api_client.py)
 
 # REFLECTIONS
 
